@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Full Stack Java Developer with the outstanding skills of JAVA, Spring Boot, NodeJS, JavaScript, Typescript, and Angular9. 
+
+
 <!--
 **aemrebasus/aemrebasus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
